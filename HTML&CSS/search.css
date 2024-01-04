@@ -1,0 +1,27 @@
+.cats{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    vertical-align: middle;
+}
+.bar{
+    border: none;
+    width: 250px;
+    vertical-align: middle;
+    font-size: 18px;
+}
+
+.button{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 14px;
+    vertical-align: middle;
+}
