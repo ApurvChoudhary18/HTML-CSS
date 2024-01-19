@@ -1,0 +1,68 @@
+.page-title{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 35px;
+    font-style: italic;
+    text-align: center;
+}
+
+.bar1,
+.bar2{
+    display: block;
+}
+
+.bar1{
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 8px;
+    font-size: 13px;
+    padding-left: 5px;
+}
+
+.bar2{
+    width: 300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    padding-left: 5px;
+}
+
+.button{
+    padding-top: 9px;
+    padding-bottom: 9px;
+    width: 310px;
+    font-size: 14px;
+    background-color: rgb(0, 149, 246);
+    color: white;
+    border:none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color:rgb(86, 112, 243);
+}
+
+.main-div-1,
+.main-div-2{
+margin-left: 550px;
+}
+
+.main-div-2{
+margin-left: 590px;
+}
+
+.para-div2{
+font-size: 18px;
+}
+
+.sign-up{
+color: rgb(0, 149, 246);
+}
+
+.sign-up:hover{
+cursor:pointer;
+
+}
