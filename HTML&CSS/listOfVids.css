@@ -1,0 +1,41 @@
+.img1{
+    width: 280px;
+    margin-right: 10px;
+}
+
+.div1,
+.div2,
+.divA,
+.divB{
+    display: inline-block;
+    vertical-align: top;
+}
+
+p{
+    font-family: Arial;
+    line-height: 25px;
+}
+.para1{
+    font-size: 17px;
+    font-weight: bold;
+    width: 280px;
+    margin-bottom: 0;
+}
+
+.para2{
+    margin-top: 10px;
+    font-size: 15px;
+    color: grey;
+    margin-bottom: 0;
+
+}
+
+.para3{
+    margin-top: -1px;
+    color: grey;
+    font-size: 15px;
+}
+
+.main1{
+    margin-bottom: 10px;
+}
